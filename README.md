@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rstudy211&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rstudy211&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=react" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rstudy211&show_icons=true&hide_border=true&layout=compact&langs_count=12&theme=radical"/>
 </p>
 
