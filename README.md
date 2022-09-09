@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **Python**
 - 💬 Ping me about **Java**, **Python**, **Node**, **RestAPIs**, **Djano**
-- 📫 Reach me: [twitter.com/Siddhantjan](https://twitter.com/Siddhantjan)
 - 📝 Checkout my [Resume](files/Siddhant%20CV.pdf).
 
 #### My Current Stack
