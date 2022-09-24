@@ -20,10 +20,10 @@ Here are some ideas to get you started:
     <img src="https://cp-logo.vercel.app/leetcode/rstudy211" alt="Leet code rating" />
   </a>
   <a href="https://github.com/rstudy211?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Siddhantjan?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/rstudy211?color=green&logo=github">
   </a>
   <a href="https://github.com/rstudy211/">
-    <img src="https://komarev.com/ghpvc/?username=Siddhantjan" alt="visitors" />
+    <img src="https://komarev.com/ghpvc/?username=rstudy211" alt="visitors" />
   </a>
 
 </p>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 #### My Current Stack
 
-<img height="48" src="img/java-original.svg" alt="java"><img height="48" src="img/android-original.svg" alt="android"><img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/postgresql-original.svg" alt="postgress">  <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/django-original.svg" alt="react">
+<img height="48" src="img/java-original.svg" alt="java"><img height="48" src="img/android-original.svg" alt="android"><img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/postgresql-original.svg" alt="postgress">  <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
 
 #### Development Stuffs:
 
